@@ -1,4 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Karthikeyan
+
+## Java Backend Developer (Learning)
+
+🎓 B.Tech - Computer Science and Business Systems
+
+🌱 Currently Learning:
+- Java
+- Spring Boot
+- MySQL
+- Git & GitHub
+
+🎯 Goal:
+Become a Java Backend Developer.
+
+## Skills
+- Java
+- Git
+- GitHub
+- IntelliJ IDEA
+- MySQL
 
 <!--
 **karthikeyan-b-dev/karthikeyan-b-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
